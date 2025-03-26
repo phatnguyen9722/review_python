@@ -1,15 +1,15 @@
 # Chapter 1:
 ## Index
 - [1. Basic syntax](#1-basic-syntax) </br>
-- 2. Data Types </br>
-- 3. Conditionals </br>
-- 4. loop </br>
+- [2. Data Types]() </br>
+- [3. Conditionals]() </br>
+- [4. loop]() </br>
     - `While` loop </br>
     - `For` loop </br>
 - [5. Type casting](#5-type-casting) </br>
 - [6. Python Collections](#6-python-collections-arrays) </br>
-- 7. Exceptions </br>
-- 8. Functions | Builtin Functions </br>
+- [7. Exceptions]() </br>
+- [8. Functions | Builtin Functions]() </br>
 
 ### 1. Basic syntax
 -----
