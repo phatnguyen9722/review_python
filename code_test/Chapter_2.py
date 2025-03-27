@@ -42,12 +42,16 @@ print(list_fruits)
 colors = ["green", "red", "yellow", "green", "green", "red", "yellow"]
 
 # Bad way
+print("-------")
 print("Bad way to concentrate 2 lists")
+print("-------")
 print(colors[0], list_fruits[0] + "\n" + colors[1], list_fruits[1])
 
 # Good way
 # Install pandas
+print("-------")
 print("Good way to concentrate 2 lists")
+print("-------")
 import pandas as pd
 
 df = pd.DataFrame(columns=["COLOR", "FRUIT"])

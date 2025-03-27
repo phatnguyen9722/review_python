@@ -5,8 +5,8 @@
 - [2. Data Types](#2-data-types) </br>
 - [3. Conditionals](#3-conditionals) </br>
 - [4. loop](#4-loop) </br>
-    - `While` loop </br>
-    - `For` loop </br>
+    - [`While` loop](#while-loop) </br>
+    - [`For` loop](#for-loop) </br>
 - [5. Type casting](#5-type-casting) </br>
 - [6. Python Collections](#6-python-collections-arrays) </br>
 - [7. Exceptions](#7-exceptions) </br>
@@ -21,7 +21,7 @@
 
 #### Python Variables
 - In Python, variables are created when you assign a value to it </br>
-- Variable names are case-sensitive (A != a). </br>
+- Variable names are `case-sensitive` (A != a). </br>
 
 ### 2. Data Types
 -----
@@ -31,6 +31,19 @@
 
 ### 4. loop
 -----
+#### While loop
+```python
+cnt = 0
+while (cnt < 3):
+    cnt = cnt + 1
+    print("Hello World!")
+```
+#### For loop
+```python
+n = 4
+for i in range(0, n):
+    print(i)
+```
 
 ### 5. Type Casting
 -----
