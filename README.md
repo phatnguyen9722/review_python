@@ -7,4 +7,5 @@
 
 -----
 # Advanced
-- [Asyncio](./more/asyncio.md)
+- [Asyncio](./more/asyncio.md) </br>
+- [Comprehension](./more/comprehension.md) </br>

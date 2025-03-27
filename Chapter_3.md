@@ -1,3 +1,4 @@
+[👈 Back to main index](README.md)
 # Chapter 3: Dictionaries
 
 - `Dictionaries` are used to store data values in key:value pairs. </br>
